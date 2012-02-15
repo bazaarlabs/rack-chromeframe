@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.email       = ["nico@gomiso.com"]
   s.homepage    = "https://github.com/bazaarlabs/rack-chromeframe"
   s.description = %Q{Force user to use Google Chrome Frame}
+
+  s.files       = `git ls-files`.split("\n")
 end
