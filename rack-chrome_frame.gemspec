@@ -4,7 +4,7 @@ require "yaml_record/version"
 
 Gem::Specification.new do |s|
   s.name        = "rack-chrome_frame"
-  s.version     = 0.0.1
+  s.version     = "0.0.1"
   s.summary     = %Q{Rack middleware to insert the Google Chrome Frame header}
   s.authors     = ["Nico Taing"]
   s.email       = ["nico@gomiso.com"]
