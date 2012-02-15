@@ -1,6 +1,5 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "yaml_record/version"
 
 Gem::Specification.new do |s|
   s.name        = "rack-chrome_frame"
