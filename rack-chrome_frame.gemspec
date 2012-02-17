@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "rack-chrome_frame"
-  s.version     = "0.0.2"
+  s.version     = "0.0.3"
   s.summary     = %Q{Rack middleware to insert the Google Chrome Frame header}
   s.authors     = ["Nico Taing"]
   s.email       = ["nico@gomiso.com"]
